@@ -13,3 +13,7 @@ This project is a binary converter implemented using HTML, CSS, and Python.
 ## Project Structure
 
 This project follows a specific structure for organizing files. Please ensure that the HTML files are placed in the `templates` folder in the same directory as other python files.
+
+# steps to run the program:
+ 1. Run the converter app.py
+ 2. Then type http://localhost:5000 in your browser to start the website.
